@@ -5,7 +5,7 @@ Restaurant Menu Python Flask Based API
 1. Install python 
 2. Add virtual enviroment using python -m venv env
 3. Activate env 
-4. pip install requirement.txt
+4. pip install -r requirement.txt
 
 # API ENDPOINTS
 
